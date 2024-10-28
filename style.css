@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header-card {
+    margin: 10px;
+    padding: 10px;
+    background-color: wheat;
+}
+
+.profile-photo {
+    width: 300px;
+    border-radius: 50%;
+    
+}
+
+body {
+    background-color: black;
+}
+
+.arvo-regular {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.card {
+    margin: 10px;
+    padding: 12px;
+    background-color: orange;
+}
+
+  .raleway-thing {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+h1 {
+    font-size: 5    0px;  
+    background-color: purple;
+    color: yellowgreen;  
+
+}
+
+h2 {
+    color: rgb(9, 167, 9);
+}
+
+p {
+    color: yellow;
+    font-size: 20px;
+    background-color: blueviolet;
+}
+
+a {
+    color: blue;
+    font-size: 25px;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding: 0px 20px;
+    background-color: wheat;
+  }
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+    background-color: wheat;
+    
+  }
+
+i {
+    font-size: 1.5em;
+    padding: 8px;
+}
+
+a:hover {color: green   
+
+}
